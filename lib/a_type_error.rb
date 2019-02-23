@@ -1,3 +1,3 @@
-1 + 1l
+1 + 1 = 2
 
-1 + "is the loneliest number"
+1 + 1 = 2
