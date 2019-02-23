@@ -1,4 +1,7 @@
-# Intro to Reading Ruby Error Messages
+learn# Intro to Reading Ruby Error Messages
+expect{
+         load './lib/a_name_error.rb'
+       }.to_not raise_error
 
 ## Overview
 
